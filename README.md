@@ -1,0 +1,7 @@
+Project Title: Exploring Insights From Synthetic Airline Data Analysis with Qlik
+Project Details: Data Collection & Extraction From Database, Data Preparation, Data Visualization, Dashboards and Storytelling, Performance Testing, Project Demonstration & Documentation.
+---> The dataset was collected from the "Kaggle". The dataset downloaded from the website Kaggle contains all the meta information regarding the fields.
+---> To connect the data with Qlik Sense, upload the dataset in the platform directly or create an analytics app.
+---> To prepare the synthetic airline dataset for visualization in Qlik by data cleaning and data pre-processing. By using final dataset , I prepared 13 visualizations. I created 3 Dashboards and 2 slides of storytelling.
+---> Utilize filters to perform filterings on all visualizations.
+Finally, Overall project is explained clearly in the project documentation i.e uploaded above.
